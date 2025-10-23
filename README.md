@@ -1,4 +1,4 @@
-## Hi, I am Israel, or Sruly in Yiddish!
+## Hi, I am Israel - or Sruly in Yiddish!
 
 ### About Me:
 I hold a BS in Computer Science from Oregon State University, where I developed and grew as a software engineer. 
