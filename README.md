@@ -1,8 +1,11 @@
-## Hi there!
+## Hi, I am Israel, or Sruly in Yiddish!
 
+### About Me:
+I hold a BS in Computer Science from Oregon State University, where I developed and grew as a software engineer. 
+I am passionate about writing clean, efficient code and continuously improving my skills while exploring new and unfamiliar areas to me.
+You can read more about me or my work history on my website: [israelpolasak.com](https://israelpolasak.com).
 
-I'm a software engineer passionate about writing clean, efficient code and continuously improving my skills.  
-Although I have experience with other languages such as x86, these are the languages I’m most comfortable with:
+Although I have experience with languages such as x86 Assembly, these are the languages I’m most comfortable with:
 
 ### My Programming Languages:
 
@@ -17,5 +20,5 @@ Although I have experience with other languages such as x86, these are the langu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrulyP&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polasais&layout=compact&theme=dark&hide_border=true" alt="My most used programming languages"/>
 </p>
