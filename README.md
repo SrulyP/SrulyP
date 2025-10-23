@@ -20,5 +20,5 @@ Although I have experience with languages such as x86 Assembly, these are the la
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polasais&layout=compact&theme=dark&hide_border=true" alt="My most used programming languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrulyP&layout=compact&theme=dark&hide_border=true" alt="My most used programming languages"/>
 </p>
